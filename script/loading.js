@@ -1,0 +1,3 @@
+// Firefox 64 - 20190102
+// If you see wobbly dots spinning very slowly move your mouse around over the overlay to see the real behavior
+// Seems to be a quirk/bug specific to codepen...
